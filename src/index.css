@@ -1,13 +1,142 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
-}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  body {
+    background-color: rgb(189, 184, 184);
+  }
+  /* start vanbar */
+  .nav {
+    box-shadow: 0 0 7px 0 gray;
+    padding: 15px 5px !important;
+    background-color: #0d6efd;
+    color: #fff;
+  }
+  .parentLinke {
+    display: flex;
+  }
+  .link {
+    display: inline-block;
+    padding: 5px;
+    text-decoration: none;
+    text-transform: capitalize;
+    font-size: 18px !important;
+    color:#fff !important;
+  }
+  .link:hover {
+    background-color: #0808c5;
+    border-radius: 7px;
+  }
+  .parent {
+    margin-top: 20px;
+  }
+  .content {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .content .logo {
+    flex-grow: 1;
+  }
+  .content .logo img {
+    width: 60px;
+    
+  }
+  .parentIcon {
+    position: relative;
+    width: 30px;
+    height: 30px;
+    border: 1px solid gray;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer; 
+  }
+  .iconCart {
+    width: 15px;
+    height: 15px;
+    
+  }
+  .parentIcon:hover {
+    background-color: blue;
+    color: #fff;
+    
+  }
+  .count {
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    position: absolute;
+    bottom: -6px;
+    right: -7px;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 12px;
+  }
+  /* end navbar */
+
+  .inputCall {
+    width: 49%;
+    height: 30px;
+    background-color: #23272d;
+    color: #fff;
+    border: 1px solid #fff;
+    border-radius: 7px;
+    padding: 10px;
+  }
+  .inputCall::placeholder {
+    color: #fff;
+  }
+  .parentArea {
+    height: 200px;
+  }
+  .area {
+    height: 200px;
+    padding: 10px;
+    background-color: #23272d;
+    border: 1px solid #fff;
+    border-radius: 7px;
+    color: #fff;
+  }
+  .area::placeholder{
+    color: #fff;
+  }
+  /* start home */
+  .content-home {
+    width: 100%;
+    height: 85vh;
+  }
+  .imag {
+    background-image: url(../public/images/back-g1.jpeg);
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+  }
+  .info-hom {
+    color: #fff;
+    width: 161px;
+    position: relative;
+    top: 60px;
+    left: 65px;
+    font-size: 20px;
+  }
+  .btn-home {
+    position: absolute;
+    bottom: 100px;
+    left: 65px;
+    font-size: 22px !important;
+    text-transform: capitalize;
+   }
+  .btn-home a {
+    color: #fff;
+    text-decoration: none;
+   
+  }
+/* end home */

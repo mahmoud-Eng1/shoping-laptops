@@ -1,0 +1,196 @@
+[
+    {
+        "id": 1,
+        "title": "Dell XPS 15",
+        "category": "Gaming Laptops",
+        "description": "A sleek and powerful laptop designed for productivity and entertainment.",
+        "price": 1299.99,
+        "image": "images/appel2.jpg"
+    },
+    {
+        "id": 2,
+        "title": "HP Spectre x360",
+        "category": "Business Laptops",
+        "description": "A versatile 2-in-1 laptop with stunning design and impressive performance.",
+        "price": 1499.99,
+        "image": "images/appel3.jpeg"
+    },
+    {
+        "id": 3,
+        "title": "Apple MacBook Pro",
+        "category": "Business Laptops",
+        "description": "A premium laptop known for its reliability, speed, and elegant design.",
+        "price": 1799.99,
+        "image":"images/appel4.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Asus ROG Zephyrus G14",
+        "category": "Workstation Laptop",
+        "description": "A high-performance gaming laptop with a compact form factor and long battery life.",
+        "price": 1699.99,
+        "image": "images/appel5.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Microsoft Surface Laptop 4",
+        "category": "Convertible Laptops",
+        "description": "A stylish and lightweight laptop with a brilliant display and long battery life.",
+        "price": 1299.99,
+        "image": "images/appel6.webp"
+    },
+    {
+        "id": 6,
+        "title": "Razer Blade 15",
+        "category": "Workstation Laptop",
+        "description": "A premium gaming laptop with cutting-edge graphics and performance.",
+        "price": 1999.99,
+        "image": "images/asus1.jpeg"
+    },
+    {
+        "id": 7,
+        "title": "Acer Swift 5",
+        "category": "Business Laptops",
+        "description": "An ultraportable laptop with a slim design and impressive battery life.",
+        "price": 999.99,
+        "image":"images/asus2.jpeg"
+    },
+    {
+        "id": 8,
+        "title": "Acer Book Pro",
+        "category": "Gaming Laptops",
+        "description": "A sleek and lightweight laptop with a stunning AMOLED display.",
+        "price": 1599.99,
+        "image": "/images/asus3.png"
+    },
+    {
+        "id": 9,
+        "title": "Lenovo ThinkPad X1 Carbon",
+        "category": "Gaming Laptops",
+        "description": "A business-oriented laptop with a durable build and exceptional keyboard.",
+        "price": 1399.99,
+        "image": "images/asus3.png"
+    },
+    {
+        "id": 10,
+        "title": "HP Pixelbook Go",
+        "category": "Convertible Laptops",
+        "description": "An ultra-portable Chromebook with a long-lasting battery and a comfortable keyboard.",
+        "price": 899.99,
+        "image": "images/asus5.jpeg"
+    },
+    {
+        "id": 11,
+        "title": "MacBook Pro",
+        "category": "Business Laptops",
+        "description": "A powerful laptop for professionals with stunning display and exceptional performance.",
+        "price": 1499.99,
+        "image": "images/asus6.png"
+    },
+    {
+        "id": 12,
+        "title": "Dell Inspiron 15",
+        "category": "Business Laptops",
+        "description": "A reliable and affordable laptop for everyday computing tasks.",
+        "price": 699.99,
+        "image": "images/asus6.png"
+    },
+    {
+        "id": 13,
+        "title": "HP Envy x360",
+        "category": "Convertible Laptops",
+        "description": "A stylish convertible laptop with powerful performance and long battery life.",
+        "price": 1099.99,
+        "image": "/images/dell.jpg"
+    },
+    {
+        "id": 14,
+        "title": "Asus ZenBook 14",
+        "category": "Ultraportable Laptops",
+        "description": "An ultraportable laptop with a sleek design and impressive performance.",
+        "price": 899.99,
+        "image": "/images/dell2.jpg"
+    },
+    {
+        "id": 15,
+        "title": "Lenovo Legion 5",
+        "category": "Gaming Laptops",
+        "description": "A powerful gaming laptop with a high-refresh-rate display and efficient cooling system.",
+        "price": 1299.99,
+        "image": "/images/dell3.jpeg"
+    },
+    {
+        "id": 16,
+        "title": "Microsoft Surface Pro 7",
+        "category": "Convertible Laptops",
+        "description": "A versatile 2-in-1 laptop with a detachable keyboard and pen support.",
+        "price": 999.99,
+        "image": "images/dell4.jpg"
+    },
+   
+    {
+        "id": 17,
+        "title": "Acer Predator Helios 300",
+        "category": "Gaming Laptops",
+        "description": "A high-performance gaming laptop with a bold design and customizable RGB lighting.",
+        "price": 1599.99,
+        "image": "images/dell5.jpeg"
+    },
+    {
+        "id": 18,
+        "title": "Razer Blade Stealth 13",
+        "category": "Gaming Laptops",
+        "description": "An ultraportable gaming laptop with a sleek design and impressive performance.",
+        "price": 1499.99,
+        "image": "images/dell6.jpeg"
+    },
+    {
+        "id": 19,
+        "title": "Samsung Galaxy Book Flex",
+        "category": "Convertible Laptops",
+        "description": "A premium 2-in-1 laptop with a stunning QLED display and long battery life.",
+        "price": 1799.99,
+        "image": "images/hp1.jpg"
+    },
+    {
+        "id": 20,
+        "title": "Google Pixelbook",
+        "category": "Chromebook",
+        "description": "A premium Chromebook with a sleek design and high-resolution display.",
+        "price": 1099.99,
+        "image": "images/hp2.png"
+    },
+    {
+        "id": 21,
+        "title": "Alienware m15 R5",
+        "category": "Gaming Laptops",
+        "description": "A powerful gaming laptop with advanced graphics and customizable lighting.",
+        "price": 1899.99,
+        "image": "images/hp3.png"
+    },
+    {
+        "id": 22,
+        "title": "Dell Latitude 9510",
+        "category": "Business",
+        "description": "A premium business laptop with exceptional battery life and productivity features.",
+        "price": 1799.99,
+        "image": "images/hp4.jpg"
+    },
+    {
+        "id": 23,
+        "title": "HP Omen 15",
+        "category": "Gaming Laptops",
+        "description": "A powerful gaming laptop with sleek design and immersive graphics.",
+        "price": 1699.99,
+        "image": "images/hp5.jpg"
+    },
+    {
+        "id": 24,
+        "title": "Asus VivoBook S15",
+        "category": "Business Laptops",
+        "description": "A stylish and lightweight laptop with a vibrant display and long battery life.",
+        "price": 899.99,
+        "image": "images/hp6.jpg"
+    }
+
+]
